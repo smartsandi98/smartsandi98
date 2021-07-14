@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandipan
 - 👀 I’m interested in full stack development and AI
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning microservices using spring framework
 - 💞️ I’m looking for competitive programming
 - 📫 How to reach me -->> Mail- basusandipan0@gmail.com
 
